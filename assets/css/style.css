@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    background-color: #b94b4b;
+    color:#ffffff;
+}
+
+a:link, a:visited{
+    text-decoration:none;
+    color:rgb(58, 4, 4);
+    cursor: pointer;
+    background:rgb(17, 230, 230);
+    border-radius: 15%
+    
+}
+
+a:hover, a:active{
+    text-decoration:none;
+    color:rgb(58, 4, 4);
+}
